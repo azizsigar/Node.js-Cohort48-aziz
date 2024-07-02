@@ -46,7 +46,7 @@ Inside of your `Node.js` fork, go to the folder `week1`. Inside of that folder, 
 
 ## **5. PROJECT: HackYourTemperature I**
 
-> In this part of the assignments you'll be setting up the basis of your project: `HackYourTemperature`. Inside the folder `assignments`, create a new folder called `hackyourtemperature`. You'll add to it every week.
+> In this part of the assignments you'll be setting up the basis of your project: `HackYourTemperature`. Inside the folder `homework`, create a new folder called `hackyourtemperature`. You'll add to it every week.
 
 In this module you'll be building the simplest of API's, starting from scratch.
 
